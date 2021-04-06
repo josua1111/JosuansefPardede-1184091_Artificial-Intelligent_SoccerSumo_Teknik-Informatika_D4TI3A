@@ -24,6 +24,6 @@ GenericObjectEditor adalah komponen inti di Weka untuk memodifikasi skema, seper
 ![IBK Lazy visualization classifier](https://user-images.githubusercontent.com/57065703/113665517-cc05cf80-96d7-11eb-91de-ec1b1dc91279.png)
 IBK Visualization Classifier Error digunakan untuk memudahkan visualisasi dataset sehingga lebih informatif melalui grafik gambar.
 
-## 6. File sumosoccer.csv
+## 6. File soccersumo.csv
 ![soccersumo-file arff](https://user-images.githubusercontent.com/57065703/113665696-22730e00-96d8-11eb-951a-428cb3efdd73.png)
 
