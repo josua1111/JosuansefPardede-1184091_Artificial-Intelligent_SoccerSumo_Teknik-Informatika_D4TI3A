@@ -1,0 +1,1 @@
+# JosuansefPardede-1184091_Artificial-Intelligent_SoccerSumo_Teknik-Informatika_D4TI3A
